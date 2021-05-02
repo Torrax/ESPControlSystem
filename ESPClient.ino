@@ -1,8 +1,9 @@
+/////////////////////////////////////////////
 //                                         //
-//         Authors: Salim El Atache        //
-//             & Carson Morris             //
+//         Authors: Carson Morris          //
+//             & Salim El Atache           //
 //         Class: CAM8302E - 012           //
-//                 Lab: 5                  //
+//               Lab: Final                //
 //           Date: 07-03-2021              //
 //                                         //
 /////////////////////////////////////////////
